@@ -1,9 +1,9 @@
-### 👋  I'm Eugene and I impact the people who impact the world
+### 👋  I'm Eugene and I'm a designer-engineer
 [![Banner](./header.png)](https://www.eugenechantk.me/)
 
 ### 🌱 About me
 - 🎨 🖥️  Product designer (3yrs exp) turn software engineer (1 yr exp)
-- 🧡  Passionate about AI, Web3 and Education -- Reshaping how humans learn, work and organize ourselves
+- 🧡  Passionate about AI, Web3 and Education -- Impacting the people who impact the world
 - 🚴‍♀️  On weekends, find me on my bike around the city, or in the mountains
 
 ### 🔭 I’m working on
