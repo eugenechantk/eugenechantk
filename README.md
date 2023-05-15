@@ -1,12 +1,15 @@
-[![Banner](./github\header.png)]
-
-## I am a Designer-engineer who imnpacts the people who impact the world
-
-I am a designer turn engineer
+### I impact the people who impact the world
+[![Banner](./header.png)](https://www.eugenechantk.me/)
 
 ### 🌱 About me
+- 🎨 🖥️ Product designer turn software engineer
+- 🧡 Passionate about AI, Web3 and Education -- Reshaping how humans learn, work and organize ourselves
+- 🚴‍♀️ On weekends, find me on my bike around the city, or in the mountains
 
 ### 🔭 I’m working on
+| Apex Labs | frens |
+|--|--|--|
+| | |
 
 ```
 - 🌱 I’m currently learning ...
