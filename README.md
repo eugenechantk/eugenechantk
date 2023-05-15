@@ -1,4 +1,4 @@
-### I impact the people who impact the world
+### 👋 I'm Eugene and I impact the people who impact the world
 [![Banner](./header.png)](https://www.eugenechantk.me/)
 
 ### 🌱 About me
