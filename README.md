@@ -1,4 +1,8 @@
-### Hi there 👋
+## I am a Designer-engineer who imnpacts the people who impact the world
+
+I am a designer turn engineer
+
+### About me
 
 <!--
 **eugenechantk/eugenechantk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
