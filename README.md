@@ -1,4 +1,4 @@
-### 👋  I'm Eugene and I'm a designer-engineer (check out my [design work](https://www.eugenechantk.me/){:target="_blank"})
+### 👋  I'm Eugene and I'm a designer-engineer (check out my [design work](https://www.eugenechantk.me/))
 [![Banner](./header.png)](https://www.eugenechantk.me/)
 
 ### 🌱 About me...
