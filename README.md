@@ -20,7 +20,7 @@ Most recently, I built...
 | **OfflineGPT** | **NaviGator** |
 |:---:|:---:|
 | [![Offline GPT](./offlinegpt_demo.gif)](https://llm-to-sms.vercel.app/)| [![NaviGator](./navigator_demo.gif)](https://devpost.com/software/glados-60a7s3) |
-| Expose any LLM chat as a SMS number | Debugger for building AI agents - 🏆 Winner of Amplitude's AI hackathon |
+| Expose any LLM as a SMS number & chat with it offline | Debugger for building AI agents - 🏆 Winner of Amplitude's AI hackathon |
 
 Before that, I built consumer-facing Web3 applications like...
 | **Apex Labs** | **frens** |
