@@ -4,19 +4,25 @@
 ### 🌱 About me...
 - 🎨 🖥️  Product designer (3yrs exp) turn software engineer (1 yr exp)
 - 🧡  Passionate about AI, Web3 and Education -- Impacting the people who impact the world
-- 🚴‍♀️  On weekends, find me on my bike around the city, or in the mountains
+- 🚴‍♀️  On weekends, find me on my bike around the city, hiking up or snowboarding down mountains
 
 ### 🔭 I’m working on...
 ```
-💡 Spent the last 2 years bettering UX for Web3. Now taking that experience to AI
+💡 I am passionate in helping problem solvers build their own tools, with the help of AI 
 ```
 
-**Right now, I am looking to build products that...**
-- ⚒️ Enable people to build their own AI agents for different domains
-- 🤝 Give us more control in generative AI
+**Right now, I am building products that...**
+- ⚒️ Enable people to build their own tools with the help of AI
+- 🤝 Give us more observability and interpretability when working with AI
 - ⛓️ Interoprability of data we have and content we generate
 
-Before that, I built...
+Most recently, I built...
+| **OfflineGPT** | **NaviGator** |
+|:---:|:---:|
+| [![Apex Labs](./apex_labs.png)](https://mnft.vercel.app/)| [![frens](./frens.png)](https://www.joinfrens.xyz/) |
+| Expose any LLM chat as a SMS number | Debugger for building AI agents - 🏆 Winner of Amplitude's AI hackathon |
+
+Before that, I built consumer-facing Web3 applications like...
 | **Apex Labs** | **frens** |
 |:---:|:---:|
 | [![Apex Labs](./apex_labs.png)](https://mnft.vercel.app/)| [![frens](./frens.png)](https://www.joinfrens.xyz/) |
